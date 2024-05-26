@@ -65,6 +65,10 @@ The capstone project demonstrates a full-cycle data science project, from data a
 * **reports/:** Final project report and documentation.
 
 
+## Links
+* [Coursera Specialization](https://www.coursera.org/professional-certificates/ibm-data-science?)
+
+
 ## Contact
 I'm always excited to connect with fellow data enthusiasts, potential employers, and anyone interested in data analytics. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chintan-patel2251/).
 
