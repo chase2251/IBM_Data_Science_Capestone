@@ -40,10 +40,10 @@ In this capstone project, I focused on analyzing data from SpaceX to predict the
 
 ### Dashboard Overview
 * **Launch Success Distribution:** A pie chart showing the distribution of successful launches across different sites.
-<img width="311" alt="Launch Success Distribution Pie Chart" src="https://github.com/chase2251/IBM_Data_Science_Capestone/assets/95754766/43afc3ab-c0e4-485d-8418-4c3378464866">
+                  <img width="311" alt="Launch Success Distribution Pie Chart" src="https://github.com/chase2251/IBM_Data_Science_Capestone/assets/95754766/43afc3ab-c0e4-485d-8418-4c3378464866">
 
 * **Payload vs. Outcome:** A scatter plot examining the relationship between payload mass and landing success.
-<img width="514" alt="Payload vs Outcome Scatter_plot" src="https://github.com/chase2251/IBM_Data_Science_Capestone/assets/95754766/0045767f-4a92-48ff-90b9-a97fec07ce75">
+                 <img width="514" alt="Payload vs Outcome Scatter_plot" src="https://github.com/chase2251/IBM_Data_Science_Capestone/assets/95754766/0045767f-4a92-48ff-90b9-a97fec07ce75">
 
 ### Folium Map
 Interactive map showcasing all launch sites and their outcomes, highlighting the geographical patterns and proximities to key infrastructure.
